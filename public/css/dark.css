@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(29, 31, 39);
+    color: white;
+}
+.navbar{
+    background-color: rgb(29, 31, 39) !important;
+}
+.nav-link{
+    color: white !important;
+}
+.footer{
+    background-color: rgb(15, 16, 20) !important;
+    color: white;
+}

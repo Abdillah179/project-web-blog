@@ -1,0 +1,105 @@
+#body {
+    background-color: #212529;
+    color: #adb5bd;
+
+}
+
+.form-check {
+    color: #adb5bd;
+}
+
+.date {
+    color: #adb5bd;
+}
+
+.published_at {
+    color: #adb5bd;
+}
+
+.negara {
+    color: #adb5bd;
+}
+
+.mx-1 {
+    color: #adb5bd;
+}
+
+.mx-2 {
+    color: #adb5bd;
+}
+
+
+.ubah {
+    color: #adb5bd;
+    text-decoration: none;
+}
+
+.ubah:hover {
+    color: #adb5bd;
+}
+
+
+.nameuser {
+    color: #adb5bd;
+}
+
+.header {
+    background-color: #495057;
+}
+
+.tulisan {
+    color: #adb5bd;
+    text-decoration: none;
+}
+
+
+nav>ul>li>.tulisan {
+    color: #adb5bd;
+    text-decoration: none;
+}
+
+.tulisan-nusantara {
+    text-decoration: none;
+}
+
+.tulisan-nusantara2 {
+    color: #adb5bd;
+}
+
+
+
+nav>ul>li>.tulisan:hover {
+    color: #adb5bd;
+}
+
+
+.login {
+    color: #adb5bd;
+    text-decoration: none;
+}
+
+.login:hover {
+    color: #adb5bd;
+    text-decoration: none;
+}
+
+
+.page-title {
+    color: #adb5bd;
+}
+
+.mobile-nav-toggle {
+    background-color: #495057;
+}
+
+.navbar {
+    background-color: #495057;
+}
+
+nav {
+    background-color: #495057;
+}
+
+.navbar-samping {
+    background-color: #495057;
+}
